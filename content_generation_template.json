@@ -1,0 +1,59 @@
+{
+  "video_project": {
+    "title": "The Compassion of Kalabhairava",
+    "aspect_ratio": "16:9",
+    "resolution": "4k",
+    "overall_style": "Cinematic realism transitioning to high-fantasy mythological",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "visual_prompt": "Cinematic shot. A severely wounded, skinny stray dog lying in a dusty alley, moaning in pain. Dark vultures are flying aggressively around the dog, swooping in to peck at it. Gloomy, desaturated lighting, high contrast, gritty realism.",
+        "camera_movement": "Slow zoom in on the dog's distressed face",
+        "audio_prompt": "Low, melancholic ambient wind. The pitiful whimpers of a dog. Sharp, terrifying caws and the heavy flapping wings of vultures.",
+        "duration": "5s"
+      },
+      {
+        "scene_number": 2,
+        "visual_prompt": "Low angle shot from behind the dog. Angry humans walking by stop to shout aggressively at the dog, one person kicks dirt towards it. The dog cowers in extreme trauma, shaking, eyes wide with fear. Gritty, tense atmosphere.",
+        "camera_movement": "Handheld, slightly shaky to convey tension and chaos",
+        "audio_prompt": "Harsh, muffled human shouts. The dog lets out a sharp yelp of fear. A sudden, low, ominous rumble begins to build in the background.",
+        "duration": "5s"
+      },
+      {
+        "scene_number": 3,
+        "visual_prompt": "A sudden, blinding ray of golden-red light breaks through the dark background. Lord Kalabhairava emerges from the light. He is towering, traditional Hindu deity attire, holding weapons, face incredibly fierce, eyes glowing and boiling with intense anger. Epic mythological lighting.",
+        "camera_movement": "Low angle sweeping up to reveal the deity's angry face",
+        "audio_prompt": "A massive, cinematic bass drop. Ethereal, echoing temple bells and a deep, fierce, divine chanting.",
+        "duration": "6s"
+      },
+      {
+        "scene_number": 4,
+        "visual_prompt": "Lord Kalabhairava releases a massive, glowing shockwave of energy. Vultures are violently flushed away into the sky. The aggressive humans are blown backward, falling and running away in absolute terror. Dramatic, slow-motion magical impact.",
+        "camera_movement": "Fast pan following the shockwave pushing the humans away",
+        "audio_prompt": "A thunderous boom followed by the sound of sweeping, powerful magical winds. Panicked gasps and fast retreating footsteps.",
+        "duration": "5s"
+      },
+      {
+        "scene_number": 5,
+        "visual_prompt": "Close-up on the dog. The lighting shifts to warm and divine. The dog looks up, its fear vanishing. The dog gives a clear, soft, grateful smile. Soft focus background showing the glowing aura of the deity.",
+        "camera_movement": "Static, intimate close-up on the dog's expressive face",
+        "audio_prompt": "The intense music transitions into a soft, beautiful, and uplifting orchestral melody. A gentle, warm chime rings out.",
+        "duration": "4s"
+      },
+      {
+        "scene_number": 6,
+        "visual_prompt": "Magical, ethereal glowing fairy wings sprout from the dog's back. The dog's wounds vanish, and it elegantly flies up into the air, hovering happily next to the majestic face of Lord Kalabhairava. Divine, beautiful, uplifting atmosphere.",
+        "camera_movement": "Smooth tilt up following the flying dog",
+        "audio_prompt": "The sound of soft, magical fluttering (like swan wings mixed with fairy dust chimes). Joyful, triumphant strings building up.",
+        "duration": "5s"
+      },
+      {
+        "scene_number": 7,
+        "visual_prompt": "Lord Kalabhairava and the winged dog dissolve into a beautiful, magical explosion of glowing colorful flowers, shimmering cosmic stars, and golden stardust. The scene is bright, colorful, delightful, and peaceful.",
+        "camera_movement": "Slow pull back as the frame fills with magical glowing particles",
+        "audio_prompt": "A sweeping, magical musical crescendo. A final, resonant, peaceful chime that slowly fades into serene silence.",
+        "duration": "6s"
+      }
+    ]
+  }
+}

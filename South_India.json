@@ -1,0 +1,10 @@
+{
+  "task": "image_generation",
+  "scale_parameters": {
+    "subject": "29-year-old South Indian woman, wheatish skin, long wavy hair, wearing a sleek professional lab coat over a stylish top.",
+    "composition": "Medium close-up shot, eye-level angle, shallow depth of field blurring the background.",
+    "action": "Smiling confidently while holding a digital tablet.",
+    "location": "Modern, glass-walled biotechnology laboratory in London.",
+    "esthetic": "Cinematic lighting, photorealistic, cool blue and silver color palette, 8k resolution."
+  }
+}

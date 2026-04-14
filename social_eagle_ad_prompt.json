@@ -1,0 +1,27 @@
+{
+  "ad_title": "The Smart Tutor: Social Eagle AI",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "visual_action": "Living room. Boy is stressed, looking at books. Tutor is tapping his watch. Dad is watching TV where a Social Eagle AI ad plays. He shakes his head. Medium shot, slightly dim lighting to show stress.",
+      "audio_dialogue": "Dad: 'Intha AI course ellam waste of money pa. Summa emathuranga.'"
+    },
+    {
+      "scene_number": 2,
+      "visual_action": "Doorbell rings. The neighbor girl (12 years old) stands there holding a football, looking energetic and happy. Bright, natural lighting.",
+      "audio_dialogue": "Girl: 'Aunty, Rahul vilayada varana?' \nMom: 'Illa ma, avanuku tuition iruku. Unaku matum eppadi evening aana free time kidaikutu? Exams illaya?'"
+    },
+    {
+      "scene_number": 3,
+      "visual_action": "Girl smiles and shows her tablet. The screen shows Social Eagle AI organizing study notes. Close-up on the tablet, then her confident face.",
+      "audio_dialogue": "Girl: 'En tutor eppovum en koodave irukange, Aunty. Social Eagle AI! En notes upload panna pothum, enga thappu panren nu kandupudichi explain pannidum. Naan ippo padikrathu mattum illa, games kuda code panren!'"
+    },
+    {
+      "scene_number": 4,
+      "visual_action": "The parents look at each other, realizing the truth. Dad looks at the expensive tutor, then back to the girl.",
+      "audio_dialogue": "Dad (thinking aloud): 'Namakku thaan tuition nu ₹500 per hour waste aaguthu...'"
+    }
+  ],
+  "closing_voiceover": "Tuition-la panatha waste pannathinga. The ₹1,25,000 value GenAI Program is now only ₹15,000! Give your child a 24/7 tutor. Register now for Social Eagle AI!",
+  "marketing_psychology_used": "Reframes the ₹15k cost as a massive saving compared to hourly tuition, while selling the emotional benefit of giving a child their free time back."
+}
